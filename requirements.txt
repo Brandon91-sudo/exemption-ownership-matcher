@@ -1,0 +1,5 @@
+pandas
+xlsxwriter
+openpyxl
+jellyfish
+rapidfuzz
